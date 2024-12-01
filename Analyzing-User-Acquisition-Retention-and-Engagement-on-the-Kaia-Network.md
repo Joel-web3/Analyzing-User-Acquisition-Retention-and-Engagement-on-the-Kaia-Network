@@ -11,6 +11,8 @@ By examining these metrics and leveraging the insights from the attached charts,
 
 The data will speak for itself and we'll also break down the methodology used to derive the results and explain how you can leverage **Flipside** analytics to replicate and dig deeper into this kind of analysis.
 
+[LINK TO FLIPSIDE DASHBOARD](https://flipsidecrypto.xyz/Jor-el/kaia-user-analysis-ms8705)
+
 Let’s dive in!
 ---
 
